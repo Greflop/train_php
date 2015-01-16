@@ -1,2 +1,3 @@
-# train_php
-Entrainement au PHP
+# Entrainement au PHP
+
+Need wamp. Careful: port 80 skype.
